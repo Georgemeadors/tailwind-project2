@@ -1,4 +1,4 @@
-[dev-log]("https://docs.google.com/document/d/1wmeQLbPFKWnSE-1lIbhDX1m9W9jTGTKw4qWEpfYAjDo/edit")
+[dev-log](https://docs.google.com/document/d/1wmeQLbPFKWnSE-1lIbhDX1m9W9jTGTKw4qWEpfYAjDo/edit?usp=sharing)
 
 
 
