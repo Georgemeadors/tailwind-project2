@@ -12,10 +12,11 @@ export default function App() {
 
     <Router>
     <div>
-      <nav className="mb-4">
+    <Navbar />
+      {/* <nav className="mb-4">
         <Link to="/navbar" className="mr-4 text-blue-500">Navbar</Link>
         <Link to="/button" className="text-blue-500">Button</Link>
-      </nav>
+      </nav> */}
       <Routes>
         <Route path="/navbar" element={<Navbar />} />
         <Route path="/button" element={<Button />} />
